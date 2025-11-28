@@ -1,5 +1,5 @@
 # DocWeave
-Taanvas was a collaborative repo for the CEN5035 Software Engineering class
+DocWeave was a collaborative repo for the CEN5035 Software Engineering class
 However, this repository is created to post my work alongside the team.
 
 Usage:
